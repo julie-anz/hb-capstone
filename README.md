@@ -87,5 +87,5 @@ Users can view their portfolios and update the details:
 
 ***
 
-[![Demo Video](](https://youtu.be/nWg8rUJb59c)
+[![Demo Video](https://youtu.be/nWg8rUJb59c)
 
