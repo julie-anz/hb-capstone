@@ -7,7 +7,7 @@ ARTwrks is a web app where users can create art on a digital canvas (with a tran
 * [Tech Stack](#tech-stack) <br/>
 * [Installation](#installation) <br/>
 * [Features](#features) <br/>
-* [Demo Video](#demo) <br/>
+* [Demo Video](#demo-video) <br/>
 
 ***
 
