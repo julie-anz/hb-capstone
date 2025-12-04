@@ -88,6 +88,6 @@ Users can view their portfolios and update the details:
 
 ***
 ### Demo Video
-(https://www.youtube.com/watch?v=nWg8rUJb59c)
+[go](https://www.youtube.com/watch?v=nWg8rUJb59c){:target="_blank" rel="noopener"} 
 <br/>
 
