@@ -87,6 +87,7 @@ Users can view their portfolios and update the details:
 <br/>
 
 ***
-
+### Tech Stack
 ![Demo Video](https://youtu.be/nWg8rUJb59c)
+<br/>
 
